@@ -1,8 +1,8 @@
-# A Complete Learning path for learning MySQL
+# A Complete Learning path for learning MongoDB
 
 ****************
 
-This is a comprehensive repository for learning MySQL. This repository explains various topics in MySQL with practial examples. 
+This is a comprehensive repository for learning MongoDB. This repository explains various topics in MongoDB with practial examples. 
 
 All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concepts being covered. Wherever possible, visuals are used to make things clear. 
 
